@@ -2,7 +2,7 @@
 type: project
 status: active
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-19
 outcome: "Full sun garden planted along both 50-foot retaining wall sections with a resolved plan for the shade-requiring begonias"
 target_date: 2026-05-31
 area: "[[Home]]"
@@ -36,15 +36,16 @@ Purchased from Costco, early April 2026:
 - [ ] Resolve begonia placement
 - [ ] Lay out planting map for both 50-foot sections (spacing, bloom-time sequencing, height tiering)
 - [ ] Amend soil
-- [ ] Plant lilies
-- [ ] Plant peonies
-- [ ] Plant hollyhocks (back row — they're tall)
-- [ ] Plant daylilies
-- [ ] Mulch
+- [x] Plant lilies ✅ 2026-04-19
+- [x] Plant peonies ✅ 2026-04-19
+- [x] Plant hollyhocks (back row — they're tall) ✅ 2026-04-19
+- [x] Plant daylilies ✅ 2026-04-19
+- [ ] Mulch — Jay quoting Monday
 - [ ] Install any stakes/supports hollyhocks will need
 - [ ] Set watering schedule
 
 ## Log
+- 2026-04-19 — All bulbs planted (lilies, peonies, hollyhocks, daylilies). Jay (contractor) coming Monday to quote mulch.
 - 2026-04-17 — Project note created in Obsidian
 - Early April 2026 — Bulbs and plants purchased at Costco
 
