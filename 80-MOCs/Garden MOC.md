@@ -2,7 +2,7 @@
 type: moc
 status: active
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-19
 tags: [moc, garden]
 ---
 
@@ -43,7 +43,9 @@ The sun garden along the two 50-foot retaining wall sections, plus any future be
 
 ## Bloom / event log
 <!-- Most recent first. Format: YYYY-MM-DD — event -->
+- 2026-04-19 — All bulbs planted (lilies, peonies, hollyhocks, daylilies). Jay quoting mulch Monday.
 - 2026-04-17 — MOC created
 
 ## Recent updates
+- 2026-04-19 — All bulbs planted. Mulch quote pending (Jay, Monday).
 - 2026-04-17 — MOC created
