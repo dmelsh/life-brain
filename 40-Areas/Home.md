@@ -3,7 +3,7 @@ n
 type: area
 status: active
 created: 2026-04-18
-updated: 2026-04-19
+updated: 2026-04-20
 review_frequency: monthly
 tags: [home, renovation, maintenance]
 ---
@@ -75,7 +75,8 @@ tags: [home, renovation, maintenance]
 ## ✅ Completed
 - Backyard retaining wall Phase 1 ✅
 - Backyard conduit: underground electric + internet run, backfilled Apr 2026 ✅
-- Backyard dirt leveled ✅, bulbs planted ✅ 2026-04-19 — Jay quoting mulch 2026-04-21
+- Backyard dirt leveled ✅, bulbs planted ✅ 2026-04-19
+- Backyard mulch + yard cleanup ✅ 2026-04-20 — Jay's Mulch, $3,400
 
 ## Contractor Tracker
 | Trade | Contractor | Status |
@@ -100,6 +101,6 @@ Grayson's Room: Drywall → Sand → Paint (sequential)
 - [ ] Get roof, paint, garage structure quotes (rental — see Rental area)
 - [ ] Schedule gutters cleaning
 - [x] Plant bulbs (backyard) ✅ 2026-04-19
-- [ ] Mulch — Jay quoting Monday 2026-04-21
+- [x] Mulch + backyard cleanup — Jay's Mulch ✅ completed 2026-04-20. Paid $3,400.
 - [ ] HA Phase 1 quick wins (~10 min in HA UI)
 - [ ] Garage door integration: ratgdo ($35–45) vs Meross vs myQ
