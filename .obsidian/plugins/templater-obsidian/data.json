@@ -15,8 +15,20 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "30-Projects",
+      "template": "_templates/project-note.md"
+    },
+    {
+      "folder": "40-Areas",
+      "template": "_templates/area-note.md"
+    },
+    {
+      "folder": "20-People",
+      "template": "_templates/person-note.md"
+    },
+    {
+      "folder": "60-Journal",
+      "template": "_templates/weekly-review.md"
     }
   ],
   "enable_file_templates": false,

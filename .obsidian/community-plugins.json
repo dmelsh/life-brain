@@ -1,4 +1,7 @@
 [
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "quickadd",
+  "table-editor-obsidian"
 ]
