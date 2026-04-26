@@ -33,14 +33,14 @@ Purchased from Costco, early April 2026:
   - Gift / return if no good spot exists
 
 ## Tasks
-- [ ] Resolve begonia placement
-- [ ] Lay out planting map for both 50-foot sections (spacing, bloom-time sequencing, height tiering)
-- [ ] Amend soil
+- [x] Resolve begonia placement ✅ 2026-04-25
+- [x] Lay out planting map for both 50-foot sections (spacing, bloom-time sequencing, height tiering) ✅ 2026-04-25
+- [x] Amend soil ✅ 2026-04-25
 - [x] Plant lilies ✅ 2026-04-19
 - [x] Plant peonies ✅ 2026-04-19
 - [x] Plant hollyhocks (back row — they're tall) ✅ 2026-04-19
 - [x] Plant daylilies ✅ 2026-04-19
-- [ ] Mulch — Jay quoting Monday
+- [x] Mulch — Jay quoting Monday ✅ 2026-04-25
 - [ ] Install any stakes/supports hollyhocks will need
 - [ ] Set watering schedule
 

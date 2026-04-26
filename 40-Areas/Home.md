@@ -59,7 +59,6 @@ tags: [home, renovation, maintenance]
 - **Master Bedroom:** crown trim, mount TV, replace window, figure out attic access
 - **Emma's Room:** closet doors, name letters, outlet cover, squeaky floor (LT)
 
-### Other Medium
 - Living room: paint walls, fireplace insert
 - Basement Build-Out: storage, laundry area
 - Basement Finish: long-term livable space (after build-out)

@@ -31,10 +31,15 @@ Replaces "scroll Slack to find what needs attention" with a single browser view,
 | Page | Route | What You See |
 |------|-------|-------------|
 | Overview | `/` | HA house status, Travel countdown, TODO, ROADMAP progress |
+| 🏠 Home | `/home` | Animated task cards from life-brain (Lawn, Maintenance, Projects, Pest, Rental, Finances, Family, Trips) |
 | Cost | `/cost` | Daily spend, MAX plan utilization, 30-day trend, per-cron breakdown |
+| 💼 Comp | `/comp` | Compensation: salary, RSU, commission, tax, 401k charts |
 | Crons | `/crons` | All 27 crons with status, last run, next run, failure strip, ▶ Run button |
 | Approvals | `/approvals` | Pending action items with Accept/Dismiss/Defer buttons |
 | History | `/history` | 30-day activity heatmap, daily notes archive, run log |
+| Family | `/family` | Family context |
+| Timeline | `/timeline` | Agent event log with cost breakdown |
+| 🌌 Universe | `/graph` | WebGL 3D knowledge graph with live job ships |
 
 ---
 
@@ -137,3 +142,26 @@ All 6 phases + public hosting completed in a single day.
 - [[01-research]] — Market research (YouTube, GitHub, Langfuse, Lovelace)
 - [[02-components]] — Full component catalog (45 widgets, v1/v2/later)
 - [[03-recommendation]] — Architecture decision (Option A/B/C analysis)
+
+---
+
+## Dev Log
+
+### 2026-04-25 — Home Dashboard Sprint
+
+**Added:**
+- `/home` tab with 9 animated card groups pulling from life-brain markdown
+- Responsive nav (hamburger/sidebar) replacing broken horizontal tab bar
+- Task actions: complete (writes back to .md), defer, edit, move between cards, add
+- Custom section cards (add/delete, persist in home-order.json)
+- `/comp` tab merged in from separate dashboard/ app
+- 4 new data sources: Rental, Finances, Family, California Trip
+- Created `30-Projects/Lawn Care 2026.md` from Home Pulse tasks
+- Fixed Timeline tab crash (date_range object → formatted string)
+- Claude Code overnight: design unification + health/weather widgets on Overview
+
+**Architecture notes:**
+- Home data API: `GET /api/home/files` → parses 8 markdown files
+- Write-back: `/api/home/toggle`, `/api/home/edit`, `/api/home/remove`, `/api/home/append`
+- UI order/custom sections: `/api/home/order` ↔ `home-order.json`
+- All markdown files remain source of truth — dashboard is display + interaction layer only
