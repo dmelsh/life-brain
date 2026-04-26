@@ -45,10 +45,10 @@ tags: [family, kids, andrea]
 ## Childcare Search *(active)*
 - Looking for: ~1 day/week recurring help (light childcare + housework), + travel coverage
 - Nancy confirmed for travel help
-- [ ] Check SLU nursing/social work program for candidates
+- [x] Check SLU nursing/social work program for candidates ✅ 2026-04-26
 - [ ] Find + thank doula — look up service name, have Grayson + Emma make something
 
 ## Open Items
-- [ ] Get Purina Early Childhood Center EIN (childcare tax deduction)
-- [ ] Confirm Andrea's HSA provider
+- [x] Get Purina Early Childhood Center EIN (childcare tax deduction) ✅ 2026-04-26
+- [x] Confirm Andrea's HSA provider ✅ 2026-04-26
 - [ ] Confirm babysitter for Myles Smith concert — June 30

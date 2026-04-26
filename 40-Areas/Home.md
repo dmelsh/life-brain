@@ -98,7 +98,7 @@ Grayson's Room: Drywall → Sand → Paint (sequential)
 - [ ] House walkthrough — capture all projects + priorities (overdue since early April)
 - [ ] Get retaining wall contractor quotes
 - [ ] Get roof, paint, garage structure quotes (rental — see Rental area)
-- [ ] Schedule gutters cleaning
+- [ ] Clean out gutters
 - [x] Plant bulbs (backyard) ✅ 2026-04-19
 - [x] Mulch + backyard cleanup — Jay's Mulch ✅ completed 2026-04-20. Paid $3,400.
 - [ ] HA Phase 1 quick wins (~10 min in HA UI)
