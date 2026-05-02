@@ -39,10 +39,69 @@ tags: [finances, net-worth, budget]
 | Amex EveryDay (...1005) | $9 |
 | Subaru (...3808) | ✅ Paid off |
 
-## 💰 Income (Recurring)
+## 💰 Income (2026 Actual — from Payslips)
+
+### Salary Structure
+| Pay Type | Frequency | Gross/Period | Annualized | Notes |
+|----------|-----------|-------------|------------|-------|
+| Base Salary (Jan) | Semimonthly | $7,901.25 | ~$189,630 | Jan only — higher base |
+| Base Salary (Feb–Apr) | Semimonthly | $6,375.00 | ~$153,000 | TAD role post-Feb 1 |
+| Commission | Variable | Varies | — | Separate checks, paid ~monthly |
+| RSU Vesting | At vest | Varies | — | Deposited to E*Trade (after-tax offset) |
+| ESPP | Per purchase | Varies | — | After-tax; periodic sales |
+
+### 2026 Payslip Summary (YTD through Apr 30)
+
+> Source: Payslip export dated 2026-05-01
+
+| Pay Date | Period | Type | Gross | Net to Bank | Notes |
+|----------|--------|------|-------|-------------|-------|
+| Jan 15 | Jan 1–15 | Salary | $7,925.85 | $3,374.63 | Includes GTL $24.60 |
+| Jan 23 | Jan 16–31 | RSU | $4,105.62 | $0.00 | → E*Trade (after-tax offset) |
+| Jan 30 | Jan 1–31 | Commission | $551.14 | $279.04 | Small commish + RSU YTD adj |
+| Jan 30 | Jan 16–31 | Salary | $7,925.85 | $3,374.63 | 2nd half |
+| Feb 13 | Feb 1–15 | Salary | $6,403.10 | $2,930.60 | New base ($6,375 + GTL $28.10) |
+| Feb 27 | Feb 1–28 | Commission | $21,662.90 | $10,972.42 | Large commission |
+| Mar 14 | Mar 1–15 | Salary | $6,403.10 | $3,181.65 | 1st half |
+| Mar 31 | Mar 1–15 | Commission Draw Recov | $4,184.81 | $4,184.81 | No deductions taken |
+| Mar 31 | Mar 16–31 | Salary | $6,403.10 | $3,609.76 | 2nd half |
+| Apr 15 | Apr 1–15 | Salary + Commission | $26,596.56 | $11,526.83 | $6,375 salary + $15,584.41 commission + maternity doula gross-up + ESPP sale |
+| Apr 23 | Apr 16–30 | RSU | $3,416.40 | $0.00 | → E*Trade (after-tax offset) |
+| Apr 30 | Apr 16–30 | Salary | $6,403.10 | $3,534.57 | 2nd half |
+
+### Running Totals (YTD Apr 30, 2026)
+| Category | Amount |
+|----------|--------|
+| Gross Salary (base) | ~$50,803 |
+| Gross Commission | ~$41,983 |
+| Gross RSU Gains | ~$19,440 |
+| Gross ESPP/Other | ~$15,890 |
+| **Total Gross Earnings** | **~$128,116+** |
+| Total Employee Taxes Withheld | ~$33,466 |
+| Pre-Tax Deductions (401k/HSA/med/dental) | ~$8,402 |
+| Post-Tax Deductions (ESPP/Legal/Loan/RSU offset) | ~$34,503 |
+| **Total Net to Bank** | **~$51,746** |
+| **Total to E*Trade (RSU)** | **~$19,440** |
+
+### Deductions (Consistent per Salary Check)
+| Item | Amount | Annualized | Notes |
+|------|--------|------------|-------|
+| 401(k) Pre-Tax | $765.00 | ~$18,360 | Increased from $1,185.19 in Jan |
+| HSA (EE) | $141.67 | ~$3,400 | Employer adds $1,000.25 |
+| Medical | $30.50 | ~$732 | |
+| Dental | $8.00 | ~$192 | |
+| ESPP | $0–$956.25 | ~$11,542 | Varies; 6-month purchase period |
+| MetLife Legal | $9.43 | ~$226 | |
+| 401(k) Loan Payment | $352.29 | ~$4,467 | Started Mar 2026 |
+
+> ⚠️ **Note:** January 401(k) was $1,185.19/paycheck (~$28,445 annualized). Starting Feb it dropped to $765/paycheck. Verify with HR/benefits if this was intentional — target may have been adjusted with role change.
+
+---
+
+## 💰 Historical Income (Pre-2026 Estimates)
 | Source | Frequency | Amount | Annual |
 |--------|-----------|--------|--------|
-| Salesforce | Semimonthly | $7,370 | $88,440 |
+| Salesforce (SE role) | Semimonthly | ~$6,375 | ~$153,000 |
 | Andrea / Purina | Biweekly | $4,322 | ~$112,000 |
 
 ## 💸 Recurring Expenses
