@@ -16,18 +16,18 @@ Spring pre-emergent applied before soil hits 55°F, fertilizer schedule on track
 
 ## 🔴 Urgent / This Weekend
 
-- [ ] Apply Tenacity pre-emergent — soil temps approaching 55°F (last call). Mix: 2 oz Tenacity + 0.5 oz NIS per gallon, ~15 gallons total for yard
+- [x] Apply Tenacity pre-emergent — soil temps approaching 55°F (last call). Mix: 2 oz Tenacity + 0.5 oz NIS per gallon, ~15 gallons total for yard ✅ 2026-05-02
 - [ ] Spot-treat clover with Tenacity post-emergent + NIS — late April is right on time
 
 ## 🟡 Near-Term
 
 - [ ] Apply Milorganite spring feeding — 4–5 bags for ~15k sq ft
-- [ ] Check mow deck height — keep at 3.5–4" through active spring growth. Do NOT scalp
-- [ ] Set mowing schedule — late April = active growth, mow weekly minimum
+- [x] Check mow deck height — keep at 3.5–4" through active spring growth. Do NOT scalp ✅ 2026-05-02
+- [x] Set mowing schedule — late April = active growth, mow weekly minimum ✅ 2026-05-02
 
 ## 🟢 Ongoing / Season
 
-- [ ] Monitor soil temps — Tenacity window closes at 55°F. Check weekly via weather app
+- [x] Monitor soil temps — Tenacity window closes at 55°F. Check weekly via weather app ✅ 2026-05-02
 - [ ] Milorganite follow-up feeding — ~6–8 weeks after spring application
 - [ ] Post-emergent weed sweep — mid-May, full yard pass
 - [ ] Aerate in fall — September/October

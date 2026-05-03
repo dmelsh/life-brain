@@ -31,7 +31,7 @@ tags: [home, renovation, maintenance]
 - Finish burying last irrigation line section
 - Trim bushes + cut back magnolia trees
 
-### Exterior Maintenance
+### Exterior Maintenance ✅ 2026-05-02
 - **URGENT: Clean gutters** (prevent basement water intrusion)
 - Tuckpointing: Andre Tuckpointer (1 quote) + get 2–3 more
 - Cut tree by back sunroom (touching glass)

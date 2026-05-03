@@ -16,17 +16,18 @@ tags: [family, dog, blue]
 - Vaccines through 2027: Rabies, DA2PP+L, Bordetella, Canine Influenza
 
 ## Preventatives
+> Source of truth: `~/.openclaw/workspace/blue.md` (feeds the dashboard)
+
 | Med | Last Given | Next Due |
 |-----|-----------|----------|
-| Flea & Tick | 2026-03-17 | 2026-04-17 |
-| Heartworm | 2026-03-17 | 2026-04-17 |
+| Flea & Tick | 2026-05-02 | 2026-06-02 |
+| Heartworm | 2026-05-02 | 2026-06-02 |
 
 ## Open
-- [ ] Give flea/tick + heartworm (due 2026-04-17 — check if done)
 - [ ] Schedule teeth cleaning
 - [ ] Annual wellness: 2027-03-16
 
 ## Boarding
 - Short stays: Gail (paid)
 - Long stays: Kenny (preferred), then Dan's parents
-- California trip (May 19–27): confirm with Dan's parents
+- California trip (May 19–27): Kenny confirmed ✅
