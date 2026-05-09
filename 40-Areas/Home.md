@@ -16,11 +16,13 @@ tags: [home, renovation, maintenance]
 ## 🔴 High Priority Projects
 
 ### Side Retaining Wall Replacement *(ANCHOR PROJECT)*
+- 🎯 NEXT: Get 3 contractor quotes for side retaining wall
 - Full replacement needed — blocks driveway + family room mini-split
 - Multiple contractor quotes needed
 - **Dependencies:** Driveway, mini-split, patio landscaping all blocked until done
 
 ### Patio Completion — Hardscape
+- 🎯 NEXT: Find metal fencing/gate contractor + schedule power wash
 - Far side pavers, seat stones, pizza oven area, paver sand on steps
 - Drainage pipe on far side + soil/sod after
 - Conduit from hole to electrical pole — hole to fill once done ✅ (backfilled Apr 2026)
@@ -31,8 +33,9 @@ tags: [home, renovation, maintenance]
 - Finish burying last irrigation line section
 - Trim bushes + cut back magnolia trees
 
-### Exterior Maintenance ✅ 2026-05-02
-- **URGENT: Clean gutters** (prevent basement water intrusion)
+### Exterior Maintenance
+- 🎯 NEXT: Get 2–3 more tuckpointing quotes (Andre = 1 so far)
+- **Clean gutters** (prevent basement water intrusion)
 - Tuckpointing: Andre Tuckpointer (1 quote) + get 2–3 more
 - Cut tree by back sunroom (touching glass)
 - Replace 2 exterior lights by sunroom (brown → black)
