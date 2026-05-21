@@ -27,8 +27,8 @@ key_points:
 - Visualize OpenClaw metrics using Grafana, with a starter dashboard providing insights
   into token distribution, cost, and usage patterns.
 relevance: 3
-access_count: 1
-last_accessed: '2026-05-10'
+access_count: 2
+last_accessed: '2026-05-20'
 ingested_by: kb-ingest.py
 kb_id: kb-20260510-a325d4
 ---

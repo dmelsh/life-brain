@@ -30,8 +30,8 @@ key_points:
 - AutoGen, from Microsoft Research, focuses on conversational agent frameworks, enabling
   various conversation patterns and collaborative code execution.
 relevance: 3
-access_count: 2
-last_accessed: '2026-05-10'
+access_count: 3
+last_accessed: '2026-05-20'
 ingested_by: kb-ingest.py
 kb_id: kb-20260509-93f468
 ---
