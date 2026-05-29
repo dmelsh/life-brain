@@ -212,3 +212,67 @@ tags: [finances, net-worth, budget]
 - **David Ellis** — Elias Mortland & Company
 - **Contact:** holly@ems-accounting.com (assistant)
 - **Filing status:** Married Filing Jointly
+
+---
+
+## 📊 Verified Snapshot — 2026-05-11 (from statements)
+
+### Net Worth Baseline
+- **True NW baseline:** ~**$429,475+** = prior tracked NW $95,547 + home equity $333,928
+- Excludes E*Trade Individual Brokerage 4790 (still not syncing in Monarch)
+- Home: $750,000 estimate − $416,072 mortgage = **$333,928 equity**
+
+### CC Debt (verified from statements)
+| Card | Balance | APR | Notes |
+|------|---------|-----|-------|
+| Chase Sapphire Reserve (...4508) | **$19,791.68** | 20.49% purchase | Grew from $9,571 in Mar 25 |
+| Amex Platinum (...1001) POT | **~$7,790** | 28.49% | $1,807.96 YTD interest, $895 YTD fees — 🔴 highest-priority payoff |
+| Chase Southwest Priority (...0716) | $0 | 19.49% | Clean |
+| Amex Bonvoy Brilliant | $0 | 28.24% | Clean |
+| Amex EveryDay (...1005) | small revolving | 28.49% | |
+| **Total revolving** | **~$27,600** | | Up from $17,300 in Mar 25 |
+
+### Other Debt
+- **SoFi Loan 1 (PA-2188908):** $26,528 @ 13.58%, $554.86/mo, next pmt May 22
+- **SoFi Loan 2 (PA-1645004):** ✅ Paid off
+- **4Runner (Toyota Financial ...2341):** $8,874.89 @ 7.50%, $282.44/mo, 37 mo remaining, payoff ~Jun 2029. Next pmt Jul 12 2026 ($241.00)
+- **Total non-mortgage debt ≈ $63,000** (CC $27,600 + SoFi $26,529 + 4Runner $8,875 + minor)
+
+### 529s (verified)
+- **Grayson 529** (account 303668163-01): **$47,899.23** — active but YTD 2026 contributions $0 → restart needed, target $200/mo min
+- **Emma 529:** does not exist → open via Missouri MOST (missourimost.org), min $500, target $100–200/mo. **Priority: Emma first.**
+- MO state tax deduction up to $16k MFJ ≈ ~$792/yr combined savings
+
+### Tax Payment Pattern (verified)
+- Consistent large balance-due payments, no quarterlies evident
+- Jan 2026 $20,681 = 2023 tax year (NOT Q4 2025 estimated)
+- Aug 2025: $17,722 = 2024 tax year + $10,865 = 2021 tax year
+- **2026 Q2 estimated due Jun 15** — check with David Ellis
+
+### 401k (updated 2026-05-11)
+- Base deferral 13%, commission 22%
+- Projected to max $23,500 in 2026 — on track
+
+### Equity Comp (full detail in workspace `equity-comp.md`)
+- **RSU:** 3 grants, **314 unvested shares (~$55,719)**
+- **ESPP:** **317 shares blocked (~$56,250)**, 264 older lots eligible to sell when blackout lifts (~$17.6k gain)
+- **Full-year 2026 RSU income est.** ~**$38,427**
+- CRM price ~$177/share
+- 🔴 **22% withholding vs 32% bracket = ~$3.8k annual shortfall on RSU alone (~$12.8k combined w/ commission)**
+- 🔴 CRM concentration **13.4% of NW** — over 10% ceiling
+
+### HSA (verified)
+| Provider | Balance | Allocation |
+|----------|---------|------------|
+| Optum | ~$33,381 | Invested: Vanguard VASGX 34.74% + VIGIX 65.26% |
+| HealthEquity | ~$12,673 | $10,715 invested (VIGIX + VIIIX), $1,958 cash below $2k auto-invest min |
+| **Total** | **~$46,054** | |
+
+- Employee $141.67/period (bi-weekly Optum, auto-invests)
+- 🔴 2026 contrib math: $141.67 × 26 + $1,000 ER = ~$4,683 vs $4,300 individual limit → **over by ~$383**. Confirm rate reduction (~$125/period) with David Ellis.
+- Action: Transfer HealthEquity → Optum to consolidate (cash earning nothing)
+- Andrea's HSA: provider still unknown
+
+### Account Status Changes
+- Emerson Savings + Safety National: ✅ CLOSED (both merged into Salesforce 401k)
+- Missing from Monarch: Individual Brokerage (E*Trade 4790) — still not syncing
