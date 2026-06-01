@@ -24,9 +24,17 @@ notion_url:
 **Total monthly income:** $2,400 | **Annual:** $28,800
 
 ## Repairs Needed
-- [ ] New roof — not yet scheduled, get estimates
+Full maintenance list with priorities: [[Rental Maintenance 2026]]
+
+*Top items as of 2026-05-31 walkthrough (Unit 2):*
+- [ ] Chimney — suspected leak, get roofer
+- [ ] Soffit — sagging, structural concern
+- [ ] Window rot — active, needs repair
+- [ ] Garage wall — pulling out, get contractor assessment
+- [ ] Downspout / clay pipe drainage — separated, erosion
+- [ ] New roof — bundle with chimney inspection
 - [ ] Exterior paint — not yet scheduled
-- [ ] Garage structure fix — not yet scheduled
+- [ ] Unit 1 walkthrough — not yet done (Jackie)
 
 ## Recurring Expenses (2024 actuals)
 | Expense | Amount | Frequency |

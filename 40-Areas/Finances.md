@@ -238,10 +238,10 @@ tags: [finances, net-worth, budget]
 - **4Runner (Toyota Financial ...2341):** $8,874.89 @ 7.50%, $282.44/mo, 37 mo remaining, payoff ~Jun 2029. Next pmt Jul 12 2026 ($241.00)
 - **Total non-mortgage debt ≈ $63,000** (CC $27,600 + SoFi $26,529 + 4Runner $8,875 + minor)
 
-### 529s (verified)
-- **Grayson 529** (account 303668163-01): **$47,899.23** — active but YTD 2026 contributions $0 → restart needed, target $200/mo min
-- **Emma 529:** does not exist → open via Missouri MOST (missourimost.org), min $500, target $100–200/mo. **Priority: Emma first.**
-- MO state tax deduction up to $16k MFJ ≈ ~$792/yr combined savings
+### 529s (verified 2026-05-31)
+- **Grayson 529** (NY 529 / nysaves.org, account 303668163-01): **$48,707.53** — contributions restarted 2026-05-31 at $250/mo auto. Grandparents to contribute.
+- **Emma 529** (NY 529 / nysaves.org, account 303668163-02): opened 2026-05-31 — seeded $1,000, $250/mo auto-contribution (balance shows $0.00 in app, contributions not yet posted). Grandparents to contribute.
+- **NOTE:** Plan opened via NY 529 (nysaves.org), not Missouri MOST. MO state tax deduction (up to $16k MFJ ≈ ~$792/yr combined) does NOT apply to NY 529 contributions — revisit whether to move to MO MOST or open MO MOST companion accounts to capture deduction.
 
 ### Tax Payment Pattern (verified)
 - Consistent large balance-due payments, no quarterlies evident

@@ -19,7 +19,7 @@ tags: [family, kids, andrea]
 ## Grayson
 - **DOB:** July 22, 2021 (age 4)
 - **Daycare:** Purina Early Childhood Center
-- **Activities:** Swim (Sundays 9:30 AM), Speech therapy (Mon + Wed 8:15 AM)
+- **Activities:** Swim (Sundays 9:00 AM, Glider 3 Lane 10 — starts Jun 7, 2026), Speech therapy (Mon + Wed 8:15 AM)
 
 ## Emma
 - **DOB:** July 22, 2025 (~9 months as of Apr 2026)
@@ -37,7 +37,7 @@ tags: [family, kids, andrea]
 ## Recurring Schedule
 | Day | Event | Who |
 |-----|-------|-----|
-| Sunday | Swim class, 9:30 AM | Grayson |
+| Sunday | Swim class, 9:00 AM (Glider 3, Lane 10) | Grayson |
 | Monday | Speech therapy, 8:15 AM | Grayson |
 | Wednesday | Speech therapy, 8:15 AM | Grayson |
 | Weekdays | Daycare drop-off (Purina) | Andrea drives |
