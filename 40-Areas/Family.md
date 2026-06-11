@@ -14,7 +14,7 @@ tags: [family, kids, andrea]
 - **DOB:** Feb 6, 1988 | **Email:** andreaelamont@gmail.com
 - **Employer:** Purina (Nestlé) — goes into office
 - **Insurance:** Purina/Nestlé benefits | **HSA:** exists, provider unknown
-- **Family:** Based in California (not local)
+- **Family:** Based in **Huntington Beach, CA** (not local) — nearest airports: SNA (John Wayne/OC) or LGB (Long Beach)
 
 ## Grayson
 - **DOB:** July 22, 2021 (age 4)
