@@ -3,12 +3,15 @@ n
 type: area
 status: active
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-06-10
 review_frequency: weekly
 tags: [family, kids, andrea]
 ---
 
 # Family
+
+> [!tip] Health records → [[Health]]
+> Insurance, providers, medications, and collect-prompts for all family members live in the dedicated Health area page.
 
 ## Andrea
 - **DOB:** Feb 6, 1988 | **Email:** andreaelamont@gmail.com

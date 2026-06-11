@@ -32,7 +32,7 @@ tags: [finances, net-worth, budget]
 |---------|---------|
 | Mortgage (...9717) | $416,072 |
 | Credit Card (...4508) | $9,571 |
-| Toyota 4Runner (...2341) | $9,127 |
+| Toyota 4Runner (...2341) | ✅ Paid off 2026-06-10 |
 | Amex Platinum (...1001) | $4,715 |
 | Credit Card (...0716) | $3,015 |
 | Marriott Bonvoy Amex (...1006) | $47 |
@@ -120,7 +120,7 @@ tags: [finances, net-worth, budget]
 ### Auto / Transport
 | Merchant | Monthly | Annual |
 |----------|---------|--------|
-| Toyota 4Runner payment | $310 | $3,720 |
+| Toyota 4Runner | ✅ Paid off 2026-06-10 | — |
 | AT&T (phone) | $101 | $1,211 |
 | Subaru — ✅ paid off | — | — |
 
@@ -235,8 +235,8 @@ tags: [finances, net-worth, budget]
 ### Other Debt
 - **SoFi Loan 1 (PA-2188908):** $26,528 @ 13.58%, $554.86/mo, next pmt May 22
 - **SoFi Loan 2 (PA-1645004):** ✅ Paid off
-- **4Runner (Toyota Financial ...2341):** $8,874.89 @ 7.50%, $282.44/mo, 37 mo remaining, payoff ~Jun 2029. Next pmt Jul 12 2026 ($241.00)
-- **Total non-mortgage debt ≈ $63,000** (CC $27,600 + SoFi $26,529 + 4Runner $8,875 + minor)
+- **4Runner (Toyota Financial ...2341):** ✅ PAID OFF 2026-06-10. Was $8,874.89 @ 7.50%. Frees $282/mo.
+- **Total non-mortgage debt ≈ $54,110** (CC $27,600 + SoFi $26,529 — 4Runner eliminated)
 
 ### 529s (verified 2026-05-31)
 - **Grayson 529** (NY 529 / nysaves.org, account 303668163-01): **$48,707.53** — contributions restarted 2026-05-31 at $250/mo auto. Grandparents to contribute.
