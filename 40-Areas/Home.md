@@ -90,6 +90,28 @@ tags: [home, renovation, maintenance]
 | Mini-split install | TBD | Need quotes |
 | Landscaping | TBD | Need quotes |
 
+## Routine Maintenance Schedule
+
+> Full log: [[home-maintenance]] in workspace
+
+### HVAC Filters
+| Unit | Size | Brand / Part | Last Done | Next Due | Interval |
+|------|------|-------------|-----------|----------|----------|
+| Upstairs (1") | 16x25x1 | BNX TruFilter — BNX.com | 2026-06-12 | **2026-08-12** | Every 2 months (A/C season) |
+| Downstairs (4") | 20x25x4 | DPFW20X25X5 (fits Honeywell FC100A1037, Carrier FILXXCAR0020, Lennox X0586) | 2026-06-12 | **2027-06-12** | Every 12 months |
+
+Upcoming upstairs schedule: Aug 12, Oct 12, Dec 12, Feb 12 (every 2 months)
+
+### Whole-House Water Filters
+| Type | Part # | Last Done | Next Due | Interval |
+|------|--------|-----------|----------|----------|
+| ACB — Activated Carbon Block | Express Water FLTWH2045C1 | 2026-06-12 | **2027-06-12** | 12 months |
+| KDF — Kinetic Degradation Fluxion | Express Water FLTWH2045K | 2026-06-12 | **2027-06-12** | 12 months |
+| PHO — Polyphosphate | Express Water FLTW2045SP | 2026-06-12 | **2027-06-12** | 12 months |
+| RO system (pre/post carbon + membrane) | New ~early 2026 | ~2026-03 | Carbon: 2027-03 / Membrane: 2028-03 | Carbon 12mo / Membrane 2–3yr |
+
+Reorder: search Amazon "Express Water FLTWH2045" for ACB/KDF/PHO combo pack.
+
 ## Dependency Map
 ```
 Side Retaining Wall → Driveway, Mini-Split, Landscaping
