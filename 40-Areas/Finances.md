@@ -50,38 +50,52 @@ tags: [finances, net-worth, budget]
 | RSU Vesting | At vest | Varies | — | Deposited to E*Trade (after-tax offset) |
 | ESPP | Per purchase | Varies | — | After-tax; periodic sales |
 
-### 2026 Payslip Summary (YTD through Apr 30)
+### 2026 H1 Commission — Spiff Confirmed
+**Source:** Spiff export 2026-06-17 | H1 total commissions: **$90,385.03**
 
-> Source: Payslip export dated 2026-05-01
+| Period | Spiff Commission | Key Driver |
+|--------|----------------:|------------|
+| Feb 2026 | $336.63 | Ramp month |
+| Mar 2026 | $12,552.85 | Otis/GEV credits land |
+| Apr Q1 2026 | $21,026.50 | Trane renewal, Otis sandbox |
+| May 2026 | $50,228.71 | Trane FSL expansions, GEV Tableau |
+| Jun 2026 | $6,240.34 | (frozen 2026-06-17, pays ~Jun 30) |
+| **H1 Total** | **$90,385.03** | 59% of $153K TI target |
+
+ACV quota attainment H1: **67.81%** ($2.99M / $4.41M). Multi Year H1: **51.27%**. Full detail → workspace `payslips-2026.md` + `comp-plan-analysis.md`.
+
+### 2026 Payslip Summary (YTD through May 29)
+
+> Source: Payslip export dated 2026-05-29 + Spiff H1 export 2026-06-17
 
 | Pay Date | Period | Type | Gross | Net to Bank | Notes |
 |----------|--------|------|-------|-------------|-------|
 | Jan 15 | Jan 1–15 | Salary | $7,925.85 | $3,374.63 | Includes GTL $24.60 |
 | Jan 23 | Jan 16–31 | RSU | $4,105.62 | $0.00 | → E*Trade (after-tax offset) |
-| Jan 30 | Jan 1–31 | Commission | $551.14 | $279.04 | Small commish + RSU YTD adj |
+| Jan 30 | Jan 1–31 | Commission | $551.14 | $279.04 | Small commish |
 | Jan 30 | Jan 16–31 | Salary | $7,925.85 | $3,374.63 | 2nd half |
-| Feb 13 | Feb 1–15 | Salary | $6,403.10 | $2,930.60 | New base ($6,375 + GTL $28.10) |
-| Feb 27 | Feb 1–28 | Commission | $21,662.90 | $10,972.42 | Large commission |
-| Mar 14 | Mar 1–15 | Salary | $6,403.10 | $3,181.65 | 1st half |
-| Mar 31 | Mar 1–15 | Commission Draw Recov | $4,184.81 | $4,184.81 | No deductions taken |
-| Mar 31 | Mar 16–31 | Salary | $6,403.10 | $3,609.76 | 2nd half |
-| Apr 15 | Apr 1–15 | Salary + Commission | $26,596.56 | $11,526.83 | $6,375 salary + $15,584.41 commission + maternity doula gross-up + ESPP sale |
-| Apr 23 | Apr 16–30 | RSU | $3,416.40 | $0.00 | → E*Trade (after-tax offset) |
-| Apr 30 | Apr 16–30 | Salary | $6,403.10 | $3,534.57 | 2nd half |
+| Feb 13 | Feb 1–15 | Salary | $6,403.10 | $2,930.60 | New AE base |
+| Feb 27 | Feb 1–28 | Commission | $21,662.90 | $10,972.42 | |
+| Mar 14 | Mar 1–15 | Salary | $6,403.10 | $3,181.65 | |
+| Mar 31 | Mar 1–15 | Commission Draw Recov | $4,184.81 | $4,184.81 | |
+| Mar 31 | Mar 16–31 | Salary | $6,403.10 | $3,609.76 | |
+| Apr 15 | Apr 1–15 | Salary + Commission | $26,596.56 | $11,526.83 | Includes ESPP sale + doula gross-up |
+| Apr 23 | Apr 16–30 | RSU | $3,416.40 | $0.00 | → E*Trade |
+| Apr 30 | Apr 16–30 | Salary | $6,403.10 | $3,534.57 | |
+| May 15 | May 1–15 | Salary | $6,572.63 | $3,642.32 | Base bumped +3.1% |
+| May 29 | May 1–31 | Commission | $33,915.98 | $16,796.91 | $29,453 + $4,463 draw recovery; 22% to 401k |
+| May 29 | May 16–31 | Salary | $6,572.63 | $3,595.37 | |
+| ~Jun 30 | Jun 2026 | Commission (Spiff) | $6,240.34 | TBD | Frozen Jun 17; pays ~Jun 30 |
 
-### Running Totals (YTD Apr 30, 2026)
+### Running Totals (H1 2026 estimate)
 | Category | Amount |
 |----------|--------|
-| Gross Salary (base) | ~$50,803 |
-| Gross Commission | ~$41,983 |
-| Gross RSU Gains | ~$19,440 |
-| Gross ESPP/Other | ~$15,890 |
-| **Total Gross Earnings** | **~$128,116+** |
-| Total Employee Taxes Withheld | ~$33,466 |
-| Pre-Tax Deductions (401k/HSA/med/dental) | ~$8,402 |
-| Post-Tax Deductions (ESPP/Legal/Loan/RSU offset) | ~$34,503 |
-| **Total Net to Bank** | **~$51,746** |
-| **Total to E*Trade (RSU)** | **~$19,440** |
+| Gross Salary (base) | ~$80,343 |
+| **Gross Commission (Spiff H1)** | **$90,385** |
+| Gross RSU Gains | ~$23,699 |
+| Gross ESPP/Other | ~$12,834 |
+| **Total Gross Earnings (est.)** | **~$207,261+** |
+| **Total to E*Trade (RSU)** | **~$23,699** |
 
 ### Deductions (Consistent per Salary Check)
 | Item | Amount | Annualized | Notes |
