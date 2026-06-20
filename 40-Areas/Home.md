@@ -16,9 +16,8 @@ tags: [home, renovation, maintenance]
 ## 🔴 High Priority Projects
 
 ### Side Retaining Wall Replacement *(ANCHOR PROJECT)*
-- 🎯 NEXT: Get 3 contractor quotes for side retaining wall
+- 🎯 Dan doing this DIY — no contractor quotes needed
 - Full replacement needed — blocks driveway + family room mini-split
-- Multiple contractor quotes needed
 - **Dependencies:** Driveway, mini-split, patio landscaping all blocked until done
 
 ### Patio Completion — Hardscape
@@ -86,7 +85,7 @@ tags: [home, renovation, maintenance]
 | Tuckpointing | Andre Tuckpointer | 1 quote — need 2–3 more |
 | Patio power wash | TBD | Quote in hand |
 | Metal fencing/gate | TBD | Need to find |
-| Side retaining wall | TBD | Need quotes |
+| Side retaining wall | Dan (DIY) | No quotes needed |
 | Mini-split install | TBD | Need quotes |
 | Landscaping | TBD | Need quotes |
 
@@ -121,7 +120,7 @@ Grayson's Room: Drywall → Sand → Paint (sequential)
 
 ## Open Items
 - [ ] House walkthrough — capture all projects + priorities (overdue since early April)
-- [ ] Get retaining wall contractor quotes
+- [x] Retaining wall — DIY confirmed 2026-06-19, no contractor needed
 - [ ] Get roof, paint, garage structure quotes (rental — see Rental area)
 - [x] Clean out gutters ✅ 2026-04-19
 - [x] Plant bulbs (backyard) ✅ 2026-04-19
