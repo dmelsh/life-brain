@@ -135,15 +135,17 @@ Family health hub — insurance, providers, medications, and records for Dan, An
 
 | Field | Value |
 |-------|-------|
-| DOB | July 22, 2025 (~11 months as of Jun 2026) |
+| DOB | July 22, 2025 (1 year as of Jul 22, 2026) |
 | Blood type | _to collect_ |
-| Allergies | _to collect_ |
+| Allergies | Cashew Nut (Hives), Pistachio Nut (Hives), Egg (Unknown reaction) |
 | Insurance | _to collect_ (Dan or Andrea's plan — confirm) |
 
 ### Providers
 | Provider | Name | Practice | Phone | Last Visit | Next |
 |----------|------|----------|-------|------------|------|
-| Pediatrician | _to collect_ | _to collect_ | _to collect_ | _to collect_ | _to collect_ |
+| Pediatrician | Hayley Wurzel, MD | Blue Fish Pediatrics, 1000 Des Peres Rd Suite 280, Des Peres MO 63131 | 314-966-8500 | Jun 25, 2026 | Jul 24, 2026 (9:15 AM) |
+| Allergy & Pulmonology | Nayna Maini, MD | WashU Medicine Pediatric Allergy & Pulmonology, One Childrens Place 2nd Fl Suite C, STL MO 63110 | 314-454-2694 | — | Sep 4, 2026 (9:00 AM) — new patient |
+| Otolaryngology | Katherine Dunsky, MD | WashU Medicine Otolaryngology, One Childrens Place 3rd Fl, STL MO 63110 | 314-454-6162 | — | Jan 7, 2027 (8:00 AM) |
 | Dentist | First visit ~12 months | — | — | — | ~Jul 2026 |
 
 ### Vaccines
